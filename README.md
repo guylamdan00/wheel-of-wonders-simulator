@@ -244,10 +244,7 @@ All logic is inside the Colab notebook. Key sections:
 
 ## License
 
-Internal use for the Pingo Light Wheel project unless otherwise specified.
+Internal use for the Wheel of Wonders project unless otherwise specified.
 
 ---
 
-## Acknowledgments
-
-Built with ❤️ for rapid iteration between design (Sheets) and analysis (Colab), optimized for the **Pingo Light Wheel** use case.
